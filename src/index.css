@@ -1,0 +1,17 @@
+:root {
+  height:auto;
+  background-color: #1a1a1a;
+  width: 100vw;
+}
+
+nav {
+  
+  width: 100vw;
+  height: 30px;
+  background-color: #b62525;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
